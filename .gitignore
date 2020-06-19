@@ -1,0 +1,5 @@
+.stack-work/
+scotty-starter.cabal
+todos.db
+.DS_Store
+*~
